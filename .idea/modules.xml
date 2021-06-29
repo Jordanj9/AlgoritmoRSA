@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlgoritmoRSA.iml" filepath="$PROJECT_DIR$/AlgoritmoRSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabinMiller/RabinMiller.iml" filepath="$PROJECT_DIR$/RabinMiller/RabinMiller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cryptomath/cryptomath.iml" filepath="$PROJECT_DIR$/cryptomath/cryptomath.iml" />
+    </modules>
+  </component>
+</project>
